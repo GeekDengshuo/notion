@@ -6,9 +6,14 @@
 | 0     | EU        | per PB  |
 | 0.5   | TC,SC,PRU | per SLC |
 | 1     | GL1       | per GPC |
-| 2     | GL2       | TOP     |
+| 2     | GL2       | TOP     |~~~~
+
+# Top Diagram
+
+![](./assets/TopDiagram.png)
 
 
+![](./assets/cmodel_top_diagram.png)
 
 ## Attr Table
 
